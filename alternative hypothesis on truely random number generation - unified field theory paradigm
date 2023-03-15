@@ -1,0 +1,16 @@
+An alternative hypothesis on truely random number generation (for unified field theory paradigm)
+H0: There is not a relationship between truely natural random human thoughts and truely natural random numbers.
+
+H1: truely Natural Random human thoughts are a source of truely natural random numbers.
+
+Requirements: a thinking person, a computer, & a random thought
+
+Locate random thought
+convert random thought to sentence form
+convert sentence from step 2 into numeric form using gemantria.com
+type numeric value from step 3 into file (.txt format)
+encrypt text file from step 4 using Elliptical Curve 256 (EC256)
+record md5 hash value from step 5
+derive the product from the numeric value used in step 4 with the md5 (text-derived-number * md5)
+check the product from step 7 to ensure precisely 2 and only 2 prime numbers in the value
+Use immediately if step 8 checks out
